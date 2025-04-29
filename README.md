@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sajjad
+- 👀 I’m interested in working as Front-end developer
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on web designing
+- 📫 How to reach me is simple . You can contact me by Telegram and Instagram
